@@ -37,8 +37,6 @@
 To clone and run this application by yourself, make sure you have at least Java 8 and all JDK stuff (including JRE), Maven to build the dependencies,
 Ecplise or STS, and Postman (it's not necessary, though it's really useful to handle a rest API. After that, do the following instructions
 
-- Switch the branch to ```running-locally```
-
 - Clone this repository
 ```bash
 $ https://github.com/MostafaMagdy55/ecommerce.git
